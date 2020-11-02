@@ -6,6 +6,7 @@ My name is Samantha Burke (she/her/hers). I am a part-time graduate student in t
 I also build adhoc reports to summarize data across digital marketing channels for internal teams to track high level performance. 
 <br>
 
+![image](about_me.JPG)
 
 # What I hope to learn
 I hope to learn new strategies for visualizing data that I can utilize in my current role. 
