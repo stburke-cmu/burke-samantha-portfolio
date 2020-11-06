@@ -6,7 +6,7 @@ My name is Samantha Burke (she/her/hers). I am a part-time graduate student in t
 Fun fact about me - I have a Shiba Inu and he's the goodest of boys. He loves the snow and going hiking. He's been to the top of more 14,000ft+ mountains than most people!
 <br>
 
-<img src = "http://stburke-cmu.github.io/burke-sammantha-portfolio/about_me.jpg" alt="Shiba!" width = "250"/>
+<img src = "about_me.jpg" width = "250"/>
 
 # What I hope to learn
 I hope to learn new strategies for visualizing data that I can utilize in my current role. I want readers to understand the point I'm trying to make without putting too much thought into it. I want to practice designing more creative and visually appealing graphics. The reports I've built in the past definitely need some spice!  
