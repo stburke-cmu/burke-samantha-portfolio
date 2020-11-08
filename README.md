@@ -15,10 +15,14 @@ I hope to learn new strategies for visualizing data that I can utilize in my cur
 # Portfolio
 
 <i>Assignment 2</i>
-<iframe src="https://data.oecd.org/chart/69xd" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69xd" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
+<iframe src="https://data.oecd.org/chart/69FP" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69FP" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
 <div class=""https://data.oecd.org/chart/69xd"" data-src=""https://data.oecd.org/chart/69FP"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <Br>
-<i>Government Debt GDP Ratio</i>
+<i>Graphic 1</i>
 <div class="flourish-embed flourish-chart" data-src="visualisation/4266628"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<br>
+ 
+ <i>Graphic 2</i>
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/4282157"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
