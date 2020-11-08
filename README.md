@@ -14,17 +14,16 @@ I hope to learn new strategies for visualizing data that I can utilize in my cur
 
 # Portfolio
 
-<i>Assignment 2</i>
-<iframe src="https://data.oecd.org/chart/69FP" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69FP" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
-
-<div class=""https://data.oecd.org/chart/69xd"" data-src=""https://data.oecd.org/chart/69FP"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
+<B>Assignment 2</B>
 <Br>
-<i>Graphic 1</i>
+<i>General Government Debt from OECD</i>
+<iframe src="https://data.oecd.org/chart/69FP" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69FP" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
+<Br>
+<i>Graphic 1</i><br>
 <div class="flourish-embed flourish-chart" data-src="visualisation/4266628"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
  
- <i>Graphic 2</i>
+ <i>Graphic 2</i><Br>
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/4282157"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 I chose to vizualize the data using a treemap because it's immediately apparent which countries have a larger or smaller debt ratio in comparison to the others. The purpose of the graphic is to show how the USA's debt ratio compares to other countries for a given year. We emphasize the USA by coloring it differently than the other countries. All of the other countries are colored the same to because they are not the focus. Graphic 1 does not use coloring to emphasize specific countries. Instead of looking at the data by year, like Graphic 1, this graphic highlights the debt ratio by country for a single year. Users can filter between years to see how countries compare to each other. The specific GDP-to-debt ratio values aren't as important in this scenario because we're trying to highlight how they compare generally.
