@@ -30,7 +30,7 @@ The purpose of the graphic is to show how the USA's debt ratio compares to other
 <b>Assignment 3 & 4 </b>
  <br>
 <i>Original Graphic</i><br>
-This graphic shows the different types of food allergies adults have, broken into age groups. It's based on an online survey with over 2,400 respondents. As someone who is impacted by food allergies, this type of data is interesting to me. The data is easy to understand and straightforward. Ultimately, I chose this graphic specifically because I felt like I could improve it. 
+This graphic shows the different types of food allergies adults have, broken into age groups. It's based on an online survey with over 2,400 respondents. As someone who is impacted by food allergies, this type of data is interesting to me. The data is easy to understand and straightforward. Ultimately, I chose this graphic specifically because I felt like I could improve it.<br>
  https://www-statista-com.proxy.library.cmu.edu/statistics/1060408/share-of-us-adults-with-allergies-to-select-foods-by-age/<br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/statistic_id1060408_share-of-us-adults-with-allergies-to-select-foods-as-of-2018-by-age.png?raw=true" width="550">
  <br>
