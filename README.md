@@ -29,21 +29,19 @@ The purpose of the graphic is to show how the USA's debt ratio compares to other
 <br>
  <b>Assignment 3 & 4 </b>
  <br>
- <i>Original Graphic</i>
- <br>
+ <i>Original Graphic</i><br>
+ https://www-statista-com.proxy.library.cmu.edu/statistics/1060408/share-of-us-adults-with-allergies-to-select-foods-by-age/<br>
  <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/statistic_id1060408_share-of-us-adults-with-allergies-to-select-foods-as-of-2018-by-age.png?raw=true" width="550">
- <br>
- https://www-statista-com.proxy.library.cmu.edu/statistics/1060408/share-of-us-adults-with-allergies-to-select-foods-by-age/
  <br>
  <br>
  <i>Wireframes: initial and Balsamiq</i>
  <br>
- Initial sketch<br><br>
-  <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/wireframe1.JPG?raw=true" width="550">
+ Initial sketch<br>
+<img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/wireframe1.JPG?raw=true" width="550">
 <br><br>
- Balsamiq Wireframe<br><br>
+ Balsamiq Wireframe<br>
    <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/wireframe2.JPG?raw=true" width="650">
-<br>
+<br><br>
  <i>Final Graphic </i>
  <br>
  <iframe src="https://public.tableau.com/views/Book1_16056288889290/Dashboard1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
