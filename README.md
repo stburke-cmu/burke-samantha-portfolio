@@ -31,7 +31,8 @@ The purpose of the graphic is to show how the USA's debt ratio compares to other
  <br>
  <i>Original Graphic</i><br>
  https://www-statista-com.proxy.library.cmu.edu/statistics/1060408/share-of-us-adults-with-allergies-to-select-foods-by-age/<br>
- <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/statistic_id1060408_share-of-us-adults-with-allergies-to-select-foods-as-of-2018-by-age.png?raw=true" width="550">
+ <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/statistic_id1060408_share-of-us-adults-with-allergies-to-select-foods-as-of-2018-by-age.png?raw=true" width="550"><br>
+ This graphic shows the different types of food allergies adults have, broken into age groups. It's based on an online survey with over 2,400 respondents. As someone who is impacted by food allergies, this type of data is interesting to me. The data is easy to understand and straightforward. Ultimately, I chose this graphic specifically because I felt like I could improve it. 
  <br>
  <br>
  <i>Wireframes: initial and Balsamiq</i>
@@ -44,7 +45,7 @@ The purpose of the graphic is to show how the USA's debt ratio compares to other
 <br><br>
  <i>Final Graphic </i>
  <br>
- <iframe src="https://public.tableau.com/views/Book1_16056288889290/Dashboard1?:showVizHome=no&:embed=true" width ="100%" seamless frameborder="0" scrolling="no"></iframe>
+ <iframe src="https://public.tableau.com/views/Book1_16056288889290/Dashboard1?:showVizHome=no&:embed=true" width="90%" height="1000" seamless frameborder="0" scrolling="yes"></iframe>
 <br><br>
  
 I went back and forth quite a bit on this visualization. First, I sketched a wireframe that consisted of a bar chart with the ages grouped together. I thought this would make the graphic easier for the audience to digest while still properly communicating the data. I also grouped some of the similar categories together. It seemed like grouping similar foods together (for example, strawberries, mangos, kiwis as fruits) would simplify the visualization without taking away from the data. One of the challenges I ran into was determining how to incorporate the large chunk of people in the 'N/A' or 'none' category. I knew this was something I wanted to change based on the source graphic. I considered excluding it until I showed my friend my initial wireframe. She understood the basics, but questioned where the rest of the percentages were. She pointed out that if I'm going to show percentages, instead of showing just a piece, I should show the "full pie." At this point, I decided to completely redo my wireframe. If I exclude a percentage of the pie, the visualization may lose reliability and seem incomplete. I showed another one of my friends my second wireframe. This wireframe was completed in Balsamiq. Instead of a bar chart, I created a stacked barchart. The similar categories are still grouped together and I combined the ages into one. She was surprised that the "wheat" was smaller than the "shellfish" category, but overall she seemed to understand the graphic. She recommended trying some different color combinations. 
