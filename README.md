@@ -25,17 +25,15 @@ I hope to learn new strategies for visualizing data that I can utilize in my cur
 <i>Graphic 2</i>
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/4282157"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 The purpose of the graphic is to show how the USA's debt ratio compares to other countries for a given year. I chose to vizualize the data using a treemap because it's immediately apparent which countries have a larger or smaller debt ratio in comparison to the others. We emphasize the USA by coloring it differently than the other countries. All of the other countries are colored the same to because they are not the focus. Graphic 1 does not use coloring to emphasize specific countries. By changing the coloring to emphasize the US, I modified the intended audience. The audience for this graphic is more specific compared to the other graphic. Also, instead of looking at the data by year, like Graphic 1, this graphic highlights the debt ratio by country for a single year. Users can filter between years to see how countries compare to each other. The specific GDP-to-debt ratio values aren't as important in this scenario because we're trying to highlight how they compare generally.
-<br>
-<br>
-<br>
-<b>Assignment 3 & 4 </b>
-<i>Original Graphic</i>
-<br>
+
+
+
+<b>Assignment 3 & 4</b><Br>
+<i>Original Graphic</i><Br>
 This graphic shows the different types of food allergies adults have, broken into age groups. It's based on an online survey with over 2,400 respondents. As someone who is impacted by food allergies, this type of data is interesting to me. The data is easy to understand and straightforward. Ultimately, I chose this graphic specifically because I felt like I could improve it.<br>
-https://www-statista-com.proxy.library.cmu.edu/statistics/1060408/share-of-us-adults-with-allergies-to-select-foods-by-age/
-<br>
+https://www-statista-com.proxy.library.cmu.edu/statistics/1060408/share-of-us-adults-with-allergies-to-select-foods-by-age/<Br><br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/statistic_id1060408_share-of-us-adults-with-allergies-to-select-foods-as-of-2018-by-age.png?raw=true" width="550">
-<br><br>
+<Br><Br>
 <i>Final Graphic </i>
 <iframe src="https://public.tableau.com/views/Book1_16056288889290/Dashboard1?:showVizHome=no&:embed=true" width="95%" height="1100" seamless frameborder="0" scrolling="yes"></iframe>
  I went back and forth quite a bit on this visualization. First, I sketched a wireframe that consisted of a bar chart with the ages grouped together (see below). I thought this would make the graphic easier for the audience to digest while still properly communicating the data. I also grouped some of the similar categories together. It seemed like grouping similar foods together (for example, strawberries, mangos, kiwis as fruits) would simplify the visualization without taking away from the data. One of the challenges I ran into was determining how to incorporate the large chunk of people in the 'N/A' or 'none' category. I knew this was something I wanted to change based on the source graphic. I considered excluding it until I showed my friend my initial wireframe. She understood the basics, but questioned where the rest of the percentages were. She pointed out that if I'm going to show percentages, instead of showing just a piece, I should show the "full pie." At this point, I decided to completely redo my wireframe. If I exclude a percentage of the pie, the visualization may lose reliability and seem incomplete. I showed another one of my friends my second wireframe. This wireframe was completed in Balsamiq. Instead of a bar chart, I created a stacked barchart. The similar categories are still grouped together and I combined the ages into one. She was surprised that the "wheat" was smaller than the "shellfish" category, but overall she seemed to understand the graphic. She recommended trying some different color combinations. 
@@ -45,6 +43,7 @@ Compared to my inital sketched wireframe, my Balsamiq wireframe, and the source 
 The feedback from my friends was valuable and guided me towards a better design. I am glad I did not combine the age groups and created seperate stacked bars. After seeing the data displayed differently, I realized that comparing the age groups is an important part of the data. Overall, my goal was to show the data in a more organized and simplified way. I wanted readers to understand what was going on immediately without having to ask questions.
 <br><br>
 <i>Wireframes: initial and Balsamiq</i>
+ 
 Initial sketch<br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/wireframe1.JPG?raw=true" width="550">
 <br><br>
