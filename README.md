@@ -44,7 +44,7 @@ The purpose of the graphic is to show how the USA's debt ratio compares to other
 <br><br>
  <i>Final Graphic </i>
  <br>
- <iframe src="https://public.tableau.com/views/Book1_16056288889290/Dashboard1?::showVizHome=no&:embed=true" height="500" seamless frameborder="0" scrolling="yes"></iframe>
+ <iframe src="https://public.tableau.com/views/Book1_16056288889290/Dashboard1?::showVizHome=no&:embed=true" seamless frameborder="0" scrolling="no"></iframe>
 <br><br>
 I went back and forth quite a bit on this visualization.
 First, I sketched a wireframe that consisted of a bar chart with the ages grouped together (see above). 
