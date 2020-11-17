@@ -38,8 +38,10 @@ The purpose of the graphic is to show how the USA's debt ratio compares to other
  <br>
  <i>Wireframes: initial and Balsamiq</i>
  <br>
+ Initial sketch<br><br>
   <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/wireframe1.JPG?raw=true" width="550">
-<br>
+<br><br>
+ Balsamiq Wireframe<br><br>
    <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/wireframe2.JPG?raw=true" width="650">
 <br>
  <i>Final Graphic </i>
