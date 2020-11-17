@@ -41,8 +41,9 @@ After evaluating the feedback from my friends, I started creating my re-design i
 Compared to my inital sketched wireframe, my Balsamiq wireframe, and the source graphic, my final visualization is pretty different.
 The feedback from my friends was valuable and guided me towards a better design. I am glad I did not combine the age groups and created seperate stacked bars. After seeing the data displayed differently, I realized that comparing the age groups is an important part of the data. Overall, my goal was to show the data in a more organized and simplified way. I wanted readers to understand what was going on immediately without having to ask questions.
 <iframe src="https://public.tableau.com/views/Book1_16056288889290/Dashboard1?:showVizHome=no&:embed=true" width="95%" height="1100" seamless frameborder="0" scrolling="yes"></iframe>
+
 <i>Wireframes: initial and Balsamiq</i>
- 
+<Br>
 Initial sketch<br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/wireframe1.JPG?raw=true" width="550">
 <br><br>
