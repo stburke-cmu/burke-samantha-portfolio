@@ -6,7 +6,7 @@ My name is Samantha Burke (she/her/hers). I am a part-time graduate student in t
 Fun fact about me - I have a Shiba Inu and he's the goodest of boys. He loves the snow and going hiking. He's been to the top of more 14,000ft+ mountains than most people!
 <br>
 
-<img src = "https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/about_me.JPG" width = "250"/>
+<img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/about_me.JPG?raw=true" width="250">
 
 # What I hope to learn
 I hope to learn new strategies for visualizing data that I can utilize in my current role. I want readers to understand the point I'm trying to make without putting too much thought into it. I want to practice designing more creative and visually appealing graphics. The reports I've built in the past definitely need some spice!  
@@ -31,15 +31,20 @@ The purpose of the graphic is to show how the USA's debt ratio compares to other
  <br>
  <i>Original Graphic</i>
  <br>
+ <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/statistic_id1060408_share-of-us-adults-with-allergies-to-select-foods-as-of-2018-by-age.png?raw=true" width="550">
+ <br>
  https://www-statista-com.proxy.library.cmu.edu/statistics/1060408/share-of-us-adults-with-allergies-to-select-foods-by-age/
  <br>
  <br>
  <i>Wireframes: initial and Balsamiq</i>
+ <br>
+  <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/wireframe1.JPG?raw=true" width="550">
 <br>
+   <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/wireframe2.JPG?raw=true" width="650">
 <br>
  <i>Final Graphic </i>
  <br>
- <iframe src="https://public.tableau.com/views/Book1_16056288889290/Dashboard1?:showVizHome=no&:embed=true"" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+ <iframe src="https://public.tableau.com/views/Book1_16056288889290/Dashboard1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 <br><br>
 I went back and forth quite a bit on this visualization.
 First, I sketched a wireframe that consisted of a bar chart with the ages grouped together (img attached). 
