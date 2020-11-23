@@ -20,12 +20,13 @@ Nuclear energy has a negative connotation, especially after Cherynobyl. What a l
       * Education is Key - where are we headed? Consider Nuclear Energy
 
 # Initial Sketches
+I'm still trying to think through how I want to display the data, but I have a general idea. These are the type of graphics I plan to visualize:
 * Bar graph of public opinion on energy sources
 * Cost by source
 * Production capacity by source
 * Overall energy consumption over time
-* Heat map by country
-* Heat map by state
+* Heat map of energy consumption by country
+* Heat map of nuclear energy capacity by state
 
 <br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/3.jpg?raw=true" width="500"><br>
@@ -51,4 +52,5 @@ The data sources above are recent information relating to energy production, con
 I plan to use these datasets to create graphics about energy around the world. 
 
 ## Method
-I plan to use Shorthand and Tableau. 
+I plan to use Shorthand and Tableau. I have never used Shorthand before so I'm still not totally sure what the capabilities are.
+I want to make my project interactive and engaging. The color scheme will likely be green and gray. The color green goes hand in hand with clean energy. I also want to include some pictures of nuclear reactors and different types of sources. I want to keep the text to a minimum, but I plan to include some small text blurbs and call outs. 
