@@ -15,8 +15,8 @@ Nuclear energy has a negative connotation, especially after Cherynobyl. What a l
       * Minimal waste
       * Zero-emission
   1. Call to Action
-      * Raise awareness 
-      * Education is Key - where are we headed? Consider Nuclear Energy
+      * Raise awareness about Nuclear energy
+      * Education is Key
 
 # Initial Sketches
 These are the type of graphics I plan to visualize:
