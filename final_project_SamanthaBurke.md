@@ -1,6 +1,6 @@
 # Energy Around The World
-I plan to illustrate the current trends in energy production and consumption. 
 Nuclear energy has a negative connotation, especially after Cherynobyl. What a lot of people don't know is that Nuclear Power is zero-emission and is key to meeting clean air objectives.
+
 
 ## Outline
  1. Intro:  What does the public think about energy production?
@@ -20,8 +20,9 @@ Nuclear energy has a negative connotation, especially after Cherynobyl. What a l
       * Education is Key - where are we headed? Consider Nuclear Energy
 
 # Initial Sketches
-I'm still trying to think through how I want to display the data, but I have a general idea. These are the type of graphics I plan to visualize:
+These are the type of graphics I plan to visualize:
 * Bar graph of public opinion on energy sources
+* Death rates by source
 * Cost by source
 * Production capacity by source
 * Overall energy consumption over time
@@ -32,25 +33,25 @@ I'm still trying to think through how I want to display the data, but I have a g
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/3.jpg?raw=true" width="500"><br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/2.JPG?raw=true" width="500"><br>
 
+<i>Interesting Call Outs</i>
+1. NUCLEAR POWER PLANTS PRODUCED 809 BILLION KILOWATT HOURS OF ELECTRICITY IN 2019
+2. NUCLEAR POWER PROVIDES 55% OF AMERICA’S CLEAN ENERGY
+4. NUCLEAR HELPS POWER 29 U.S. STATES
+
 
 ## Data
 * [Nuclear Energy World Capacity](https://www.nei.org/resources/statistics/world-nuclear-generation-and-capacity)
-
 * [Nuclear Generating Statistics](https://www.nei.org/resources/statistics/us-nuclear-generating-statistics)
-
 * [Nuclear Energy Costs](https://www.nei.org/resources/reports-briefs/nuclear-costs-in-contexthttps://data.mendeley.com/datasets/8mc7h6pfyb/1#__sid=js0)
-
 * [Energy by Source](https://www.eia.gov/energyexplained/us-energy-facts/)
-
 * [Energy Consumption by Region](https://ourworldindata.org/energy)
-
 * [Nuclear Energy - Sustainable](https://www.energy.gov/ne/articles/3-reasons-why-nuclear-clean-and-sustainable)
-
 * [Public Opinion](https://en.wikipedia.org/wiki/Public_opinion_on_nuclear_issues)
-
-The data sources above are recent information relating to energy production, consumption, and cost around the world. 
-I plan to use these datasets to create graphics about energy around the world. 
+* [Fast Facts](https://www.energy.gov/ne/articles/5-fast-facts-about-nuclear-energy)
+* [Fatalities by source](https://www.visualcapitalist.com/worlds-safest-source-energy/)
+<br>
+The data sources above are recent information relating to energy production, consumption, and cost around the world. The sites above contain data that I plan to export for graphics and statistics that I plan to use for specific call outs and interesting facts.
 
 ## Method
-I plan to use Shorthand and Tableau.
-I want to make my project interactive and engaging. The color scheme will likely be green and gray. The color green goes hand in hand with clean energy. I also want to include some pictures of nuclear reactors and different types of sources. I want to keep the text to a minimum, but I plan to include some small text blurbs and call outs. 
+I plan to use Shorthand and Tableau to illustrate data about energy consumption and production.
+I want to make my project interactive and engaging. The color scheme will likely be green and gray. The color green goes hand in hand with clean energy. I want to keep text to a minimum, but I plan to include some small text blurbs and call outs. My goal is to increase people's awareness about Nuclear power.  
