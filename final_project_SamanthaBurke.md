@@ -28,6 +28,7 @@ Nuclear energy has a negative connotation, especially after Cherynobyl. What a l
 * Heat map by state
 
 <br>
+<img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/3.JPG?raw=true" width="500">
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/2.JPG?raw=true" width="500"><br>
 
 
