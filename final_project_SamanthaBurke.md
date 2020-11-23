@@ -1,4 +1,6 @@
 # Energy Around The World
+I plan to illustrate the current trends in energy production and consumption. 
+
 ## Outline
  1. Intro:  What does the public think about energy production?
     * Which sources do they support? 
@@ -14,7 +16,8 @@
       * Minimal waste
       * Zero-emission
   1. Call to Action
-      * Raise awareness. Education is Key - where are we headed? Consider Nuclear Energy
+      * Raise awareness 
+      * Education is Key - where are we headed? Consider Nuclear Energy
 
 # Initial Sketches
 * Bar graph of public opinion on energy sources
