@@ -1,4 +1,4 @@
-# Energy Around The World
+# The Future of Clean Energy
 Nuclear energy has a negative connotation, especially after Cherynobyl. What a lot of people don't realize is that Nuclear Power is zero-emission and is a key contributor to clean air objectives.
 
 ## Outline
