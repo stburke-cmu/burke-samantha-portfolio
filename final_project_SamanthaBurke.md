@@ -52,5 +52,5 @@ The data sources above are recent information relating to energy production, con
 I plan to use these datasets to create graphics about energy around the world. 
 
 ## Method
-I plan to use Shorthand and Tableau. I have never used Shorthand before so I'm still not totally sure what the capabilities are.
+I plan to use Shorthand and Tableau.
 I want to make my project interactive and engaging. The color scheme will likely be green and gray. The color green goes hand in hand with clean energy. I also want to include some pictures of nuclear reactors and different types of sources. I want to keep the text to a minimum, but I plan to include some small text blurbs and call outs. 
