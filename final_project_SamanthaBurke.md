@@ -49,7 +49,7 @@ These are the type of graphics I plan to visualize:
 * [Fast Facts](https://www.energy.gov/ne/articles/5-fast-facts-about-nuclear-energy)
 * [Fatalities by source](https://www.visualcapitalist.com/worlds-safest-source-energy/)
 <br>
-The data sources above are recent information relating to energy production, consumption, and cost around the world. The sites above contain data that I plan to export for graphics and statistics that I plan to use for specific call outs and interesting facts.
+<br> The data sources above are recent information relating to energy production, consumption, and cost around the world. They contain data that I plan to export for graphics and statistics that I plan to use for specific call outs and interesting facts.
 
 ## Method
 I plan to use Shorthand and Tableau to illustrate data about energy consumption and production.
