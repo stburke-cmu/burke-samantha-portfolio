@@ -1,24 +1,26 @@
 # The Truth About Gluten
-<i>Outline</i>
-  <b>intro</b>
-  Overview of what it is, who it affects, why people eat gluten free
-  <b>Data & Analysis</b>
-  Cost of being gluten free - physical, mental, and financial
-  Should everyone be gluten free?
-  <b>Call to Action:</b>
-  If you don't need to be, don't bother.
-      It's expensive, lower nutritional value in many cases, there are better ways to be healthy
-  If you do, take it seriously
-      It can cause health problems and lower quality of life
+## Outline
+1. Overview 
+    * What is it? 
+    * Who does it affect?
+    * How common is it?
+1. Data & Analysis
+    * Why do people go gluten free? 
+    * How does it impact health?
+    * Should everyone be gluten free?
+1. Call to Action
+      * If you don't need to be, think twice.
+      * If you do, take it seriously
 
-https://www.beyondceliac.org/celiac-disease/
-Website has a variety of statistics that I plan to incorporate.
+## Data
+* [BeyondCeliac](https://www.beyondceliac.org/celiac-disease/)
+Website has interesting statistics
 
-https://www.mayoclinic.org/diseases-conditions/celiac-disease/symptoms-causes/syc-20352220
+* [MayoClinic](https://www.mayoclinic.org/diseases-conditions/celiac-disease/symptoms-causes/syc-20352220)
 Symptoms and Complications 
 
-https://www-statista-com.proxy.library.cmu.edu/statistics/304324/us-consumers-reasons-for-eating-gluten-free-food/
-Reasons for eating Gluten free 
+* [Statista](https://www-statista-com.proxy.library.cmu.edu/statistics/304324/us-consumers-reasons-for-eating-gluten-free-food/)
+Reasons for eating GF
 
-https://data.mendeley.com/datasets/8mc7h6pfyb/1#__sid=js0
+* [Cost Data](https://data.mendeley.com/datasets/8mc7h6pfyb/1#__sid=js0)
 Supermarket price dataset on Gluten Free foods
