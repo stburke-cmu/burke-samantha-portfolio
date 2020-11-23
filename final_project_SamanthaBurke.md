@@ -1,26 +1,28 @@
-# The Truth About Gluten
+# Energy
 ## Outline
-1. Overview 
+1. Intro
     * What is it? 
-    * Who does it affect?
-    * How common is it?
+    * Are people familiar with it?
+    * Why does it matter?
 1. Data & Analysis
-    * Why do people go gluten free? 
-    * How does it impact health?
-    * Should everyone be gluten free?
+    * How many Nuclear power plants do we have world wide?
+    * Where do you think the United Sates compares? 
+    * Is it clean?
+      * Small land footprint
+      * Minimal waste
+      * Zero-emission
 1. Call to Action
-      * If you don't need to be, think twice.
-      * If you do, take it seriously
+      * Raise awareness. Education is Key - where are we headed? Consider Nuclear power
 
 ## Data
-* [BeyondCeliac](https://www.beyondceliac.org/celiac-disease/)
-Website has interesting statistics
+* [Nuclear Energy World Capacity](https://www.nei.org/resources/statistics/world-nuclear-generation-and-capacity)
 
-* [MayoClinic](https://www.mayoclinic.org/diseases-conditions/celiac-disease/symptoms-causes/syc-20352220)
-Symptoms and Complications 
+* [Nuclear Generating Statistics](https://www.nei.org/resources/statistics/us-nuclear-generating-statistics)
 
-* [Statista](https://www-statista-com.proxy.library.cmu.edu/statistics/304324/us-consumers-reasons-for-eating-gluten-free-food/)
-Reasons for eating GF
+* [Nuclear Energy Costs](https://www.nei.org/resources/reports-briefs/nuclear-costs-in-contexthttps://data.mendeley.com/datasets/8mc7h6pfyb/1#__sid=js0)
 
-* [Cost Data](https://data.mendeley.com/datasets/8mc7h6pfyb/1#__sid=js0)
-Supermarket price dataset on Gluten Free foods
+* [Energy by Source](https://www.eia.gov/energyexplained/us-energy-facts/)
+
+* [Energy Consumption by Region](https://ourworldindata.org/energy)
+
+* [Nuclear Energy - Sustainable](https://www.energy.gov/ne/articles/3-reasons-why-nuclear-clean-and-sustainable)
