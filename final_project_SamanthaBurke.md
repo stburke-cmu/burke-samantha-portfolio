@@ -39,6 +39,8 @@ These are the type of graphics I plan to visualize:
 
 
 ## Data
+The data sources above are recent information relating to energy production, consumption, and cost around the world. They contain data that I plan to export for graphics and statistics that I plan to use for specific call outs and interesting facts.
+
 * [Nuclear Energy World Capacity](https://www.nei.org/resources/statistics/world-nuclear-generation-and-capacity)
 * [Nuclear Generating Statistics](https://www.nei.org/resources/statistics/us-nuclear-generating-statistics)
 * [Nuclear Energy Costs](https://www.nei.org/resources/reports-briefs/nuclear-costs-in-contexthttps://data.mendeley.com/datasets/8mc7h6pfyb/1#__sid=js0)
@@ -48,8 +50,7 @@ These are the type of graphics I plan to visualize:
 * [Public Opinion](https://en.wikipedia.org/wiki/Public_opinion_on_nuclear_issues)
 * [Fast Facts](https://www.energy.gov/ne/articles/5-fast-facts-about-nuclear-energy)
 * [Fatalities by source](https://www.visualcapitalist.com/worlds-safest-source-energy/)
-<br>
-<br> The data sources above are recent information relating to energy production, consumption, and cost around the world. They contain data that I plan to export for graphics and statistics that I plan to use for specific call outs and interesting facts.
+
 
 ## Method
 I plan to use Shorthand and Tableau to illustrate data about energy consumption and production.
