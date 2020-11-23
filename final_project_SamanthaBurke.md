@@ -1,10 +1,10 @@
 # Energy Around The World
 I plan to illustrate the current trends in energy production and consumption. 
+Nuclear energy has a negative connotation, especially after Cherynobyl. What a lot of people don't know is that Nuclear Power is zero-emission and is key to meeting clean air objectives.
 
 ## Outline
  1. Intro:  What does the public think about energy production?
     * Which sources do they support? 
-    * Are people familiar with it?
     * Why does it matter?
  1. Data & Analysis
     * How do each of those sources perform?
@@ -21,10 +21,12 @@ I plan to illustrate the current trends in energy production and consumption.
 
 # Initial Sketches
 * Bar graph of public opinion on energy sources
+* Cost by source
+* Production capacity by source
+* Overall energy consumption over time
 * Heat map by country
 * Heat map by state
-* Small pie chart with capacity by energy source
-* Cost by source
+
 <br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/2.JPG?raw=true" width="500"><br>
 
