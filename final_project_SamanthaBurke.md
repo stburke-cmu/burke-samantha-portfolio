@@ -1,6 +1,5 @@
 # Energy Around The World
-Nuclear energy has a negative connotation, especially after Cherynobyl. What a lot of people don't know is that Nuclear Power is zero-emission and is key to meeting clean air objectives.
-
+Nuclear energy has a negative connotation, especially after Cherynobyl. What a lot of people don't realize is that Nuclear Power is zero-emission and is a key contributor to clean air objectives.
 
 ## Outline
  1. Intro:  What does the public think about energy production?
