@@ -45,3 +45,5 @@ I started my process by creating a wireframe in Balsamiq. It was very preliminar
   1. Change the "to put it into perspective" graphic. 
       * It looks clunky
  
+## Wireframes
+<img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/Wireframe sample.png?raw=true" width="500"><br>
