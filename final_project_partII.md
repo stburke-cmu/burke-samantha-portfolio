@@ -37,7 +37,8 @@ I started my process by creating a wireframe in Balsamiq. It was very preliminar
       * Join Nuclear Matters to help raise awareness
 
 ## To Do
-  1. Embed graphics. 
+  1. Sources
+  l. Embed graphics. 
       * Right now, they are just screenshots.
   1. Polish visualizations
       *  Fonts, color, titles
