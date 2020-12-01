@@ -1,20 +1,42 @@
-# Project Outline
-1. What is the current public opinion on nuclear energy?
-- A lot of people oppose it
-- They actually prefer solar and wind power
-2. Why should people change their mind?
-- Clean
--- emissions avoided 
--- it actually generates less emissions over the total life cycle
-- Capacity (putting it into perspective)
--- 100 million LED lightbulbs 
--- 312.5 million solar panels
--- 342 utility grade wind turbines (the big ones)
-- Footprint (literal square miles)
--- Nuclear power plant = 1 mile radius
--- Solar panels to generate that amount of power = 
--- Wind turbines to generate that power = 
-- Jobs, money, etc facts
-4. Why is it so important?
--- energy consumption is increasing, we need something clean that can keep up
-5. Call to action: Become an advocate for nuclear energy. 
+# Project Part II
+## Outline Draft 1
+  1. Intro:  What does the public think about energy production?
+      * A lot of people oppose it. 
+      * They prefer solar and wind.
+  1. Data & Analysis: Maybe we should reconsider?
+      * Energy consumption is only increasing and we need something that can keep up
+      * Nuclear energy produces zero carbon emissions
+      * It doesn't need sun or wind to operate. It can operate at nearly full capacity year round.
+      * It generates more power than most renewable sources combined
+  1. Call to Action
+      * Become an advocate for nuclear energy. 
+      * Join Nuclear Matters to help raise awareness
+
+## Audience/User stories
+  l. My target audience is anyone that's concerned about the environment. Frankly, we all probably should be.
+  l. User stories
+    * I want to learn how to reduce my carbon footprint so that I can help preserve the earth.
+    * I know climate change is real and I want to help, but I don't want to change my lifestyle.
+
+## Research Process
+I started my process by creating a wireframe in Balsamiq. It was very preliminary, but it helped me get the layout sorted out. I showed this to the people I interviewed. The feedback helped me create a stronger introduction and rethink some of my graphics. Next, I started putting my work into Shorthand. Based on the feedback I got after showing this version, I decided to change my story line. It helped me build a stronger introduction, eliminate some of the fluff, and focus on the important information.
+
+## Revisions
+   1. Intro:  We know climate change exists but what do we do about it?
+      * Energy use is increasing
+      * How do we reduce our carbon footprint while sustaining our energy use?
+   1. Data & Analysis: Nuclear Energy: It's not what you think
+      * Nuclear energy produces zero carbon emissions
+      * It's actually very safe.
+      * It generates more power than most renewable sources combined
+      * It doesn't need sun or wind to operate. It can operate at nearly full capacity year round
+      * The earth only has so much real-estate for solar panels and wind turbines. We need nuclear energy too.
+  1. Call to Action
+      * Become an advocate for nuclear energy. 
+      * Join Nuclear Matters to help raise awareness
+
+## To Do
+    * Embed graphics. Right now, they are just screenshots.
+    * Polish visualizations (Fonts, color, titles)
+    * Include more icons and statistics
+ 
