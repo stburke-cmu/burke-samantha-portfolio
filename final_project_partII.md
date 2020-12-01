@@ -13,10 +13,11 @@
       * Join Nuclear Matters to help raise awareness
 
 ## Audience/User stories
-  l. My target audience is anyone that's concerned about the environment. Frankly, we all probably should be.
-  l. User stories
-    * I want to learn how to reduce my carbon footprint so that I can help preserve the earth.
-    * I know climate change is real and I want to help, but I don't want to change my lifestyle.
+  1. My target audience is anyone that's concerned about the environment. Frankly, we all probably should be.
+      * Right now, they are just screenshots.
+  1. User stories:
+      *   "I want to learn how to reduce my carbon footprint so that I can help preserve the earth."
+      *   "I know climate change is real and I want to do my part, but I need to educate myself."
 
 ## Research Process
 I started my process by creating a wireframe in Balsamiq. It was very preliminary, but it helped me get the layout sorted out. I showed this to the people I interviewed. The feedback helped me create a stronger introduction and rethink some of my graphics. Next, I started putting my work into Shorthand. Based on the feedback I got after showing this version, I decided to change my story line. It helped me build a stronger introduction, eliminate some of the fluff, and focus on the important information.
@@ -36,7 +37,11 @@ I started my process by creating a wireframe in Balsamiq. It was very preliminar
       * Join Nuclear Matters to help raise awareness
 
 ## To Do
-    * Embed graphics. Right now, they are just screenshots.
-    * Polish visualizations (Fonts, color, titles)
-    * Include more icons and statistics
+  1. Embed graphics. 
+      * Right now, they are just screenshots.
+  1. Polish visualizations
+      *  Fonts, color, titles
+      *  Include more icons and statistics
+  1. Change the "to put it into perspective" graphic. 
+      * It looks clunky
  
