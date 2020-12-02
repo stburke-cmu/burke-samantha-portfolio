@@ -47,11 +47,12 @@ I started my process by creating a wireframe in Balsamiq (see below). It was ver
       * It looks clunky
  
 ## Wireframes/story board
+*Note some of the screenshots may make my project draft appear incomplete. This is due the animations that are only visible in Shorthand.<br>
+
 # Balsamiq - Draft 1
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/Wireframe sample.png?raw=true" width="500"><br>
 <br>
 <br>
-# *Note some of the screenshots make my project draft appear incomplete. This is due the animations on Shorthand.
 
 # Intro Screenshot Examples 
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/intro_slide.JPG?raw=true"><br>
