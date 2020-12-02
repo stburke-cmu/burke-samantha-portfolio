@@ -48,13 +48,15 @@ I started my process by creating a wireframe in Balsamiq (see below). It was ver
 ## Wireframes/story board
 # Balsamiq
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/Wireframe sample.png?raw=true" width="500"><br>
-# Intro
+*Note some of the screenshots make my project draft appear incomplete. This is due the animations on shorthand.
+# Intro Screenshot Example 
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/Intro.JPG?raw=true"><br>
-# Data/Analysis 
+
+# Data/Analysis Screenshot Example 
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data.JPG?raw=true"><br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data2.JPG?raw=true"><br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data3.JPG?raw=true"><br>
-# Call To Action
+# Call To Action Screenshot Example
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/call to action.JPG?raw=true"><br>
 The bottom text is a link. This will be a different color or text format in my final project. 
 
