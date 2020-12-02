@@ -48,13 +48,13 @@ I started my process by creating a wireframe in Balsamiq (see below). It was ver
 ## Wireframes/story board
 # Balsamiq
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/Wireframe sample.png?raw=true" width="500"><br>
-# Intro screenshot 
+# Intro
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/Intro.JPG?raw=true"><br>
-# Data/analysis screenshots 
+# Data/Analysis 
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data.JPG?raw=true"><br>
-<img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data1.JPGg?raw=true"><br>
+<img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data2.JPGr?aw=true"><br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data3.JPG?raw=true"><br>
-# Call to action screenshot
+# Call To Action
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/call to action.JPG?raw=true"><br>
 
 
