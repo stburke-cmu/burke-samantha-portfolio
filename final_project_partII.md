@@ -1,5 +1,5 @@
 # Project Part II
-## Outline Draft 1
+## Outline: Draft Revision 1
   1. Intro:  What does the public think about energy production?
       * A lot of people oppose it. 
       * They prefer solar and wind.
@@ -21,7 +21,7 @@
 ## Research Process
 I started my process by creating a wireframe in Balsamiq (see below). It was very preliminary, but it helped me get the layout sorted out. I showed this to the people I interviewed. They said it was a good start, but I could improve the way it flows. At first I had the 'Nuclear Energy, it's not what you think" first, but after discussing it with them, I moved it to after the initial introduction. If the audience already has an opinion about Nuclear Energy, they may be less likely to look at the information with an open mind. The feedback helped me create a stronger introduction and rethink some of my graphics. Next, I started putting my work into Shorthand. I included some screenshots below. I walked each person through the Shorthand draft. Each person seemed to get hung up on the "put this into perspective" portion. I definitely need to redesign that portion for my final submission. Based on the feedback I got after showing this version, I also decided to further revise my story line. The introduction was still kind of awkward. My revision outline is below. I did incorporated some of the revisions in my screenshots at the bottom of this page. Overall, the feedback I received from the interviews helped me build a stronger introduction, eliminate some of the "fluff" and focus on the important information.
 
-## Draft Revisions
+## Outline: Revision 2
    1. Intro:  We know climate change exists but what do we do about it?
       * Energy use is increasing
       * How do we reduce our carbon footprint while sustaining our energy use?
@@ -36,7 +36,8 @@ I started my process by creating a wireframe in Balsamiq (see below). It was ver
       * Join Nuclear Matters to help raise awareness
 
 ## To Do
-  1. Sources
+  l. Sources
+      * Document/display appropriate sources 
   l. Embed graphics 
       * Right now, they are just screenshots.
   1. Polish visualizations
@@ -45,12 +46,12 @@ I started my process by creating a wireframe in Balsamiq (see below). It was ver
   1. Change the "to put it into perspective" graphic. 
       * It looks clunky
  
-## Wireframes/story board
-# Balsamiq
+# Wireframes/story board
+# Balsamiq - Draft 1
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/Wireframe sample.png?raw=true" width="500"><br>
 <br>
 <br>
-# *Note some of the screenshots make my project draft appear incomplete. This is due the animations on shorthand.
+# *Note some of the screenshots make my project draft appear incomplete. This is due the animations on Shorthand.
 
 # Intro Screenshot Examples 
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/intro_slide.JPG?raw=true"><br>
