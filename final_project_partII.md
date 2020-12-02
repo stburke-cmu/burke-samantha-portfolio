@@ -46,7 +46,7 @@ I started my process by creating a wireframe in Balsamiq (see below). It was ver
   1. Change the "to put it into perspective" graphic. 
       * It looks clunky
  
-# Wireframes/story board
+# Wireframes & Story Board
 <br>
 ## Balsamiq - Draft 1
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/Wireframe sample.png?raw=true" width="500"><br>
