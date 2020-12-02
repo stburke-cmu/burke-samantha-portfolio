@@ -47,7 +47,6 @@ I started my process by creating a wireframe in Balsamiq (see below). It was ver
       * It looks clunky
  
 ## Wireframes/story board
-*Note some of the screenshots may make my project draft appear incomplete. This is due the animations that are only visible in Shorthand.<br>
 
 # Balsamiq - Draft 1
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/Wireframe sample.png?raw=true" width="500"><br>
@@ -56,7 +55,11 @@ I started my process by creating a wireframe in Balsamiq (see below). It was ver
 # Shorthand Draft
 <script src="https://embed.shorthand.com/embed_9.js"></script>
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/rethinkenergy/"><h1>We know climate change is real</h1><p>But what do we do about it?</p></div>
-
+<br>
+<br>
+<br>
+## In case the Shorthand draft above does not render I included some screenshots
+*Note some of the screenshots may make my project draft appear incomplete. This is due the animations that are only visible in Shorthand.<br>
 
 # Intro Screenshot Examples 
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/intro_slide.JPG?raw=true"><br>
