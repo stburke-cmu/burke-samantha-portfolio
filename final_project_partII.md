@@ -48,3 +48,9 @@ I started my process by creating a wireframe in Balsamiq (see below). It was ver
  
 ## Wireframes/story board
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/Wireframe sample.png?raw=true" width="500"><br>
+<img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/intro.jpg?raw=true" width="500"><br>
+<img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data.jpg?raw=true" width="500"><br>
+<img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data1.jpg?raw=true" width="500"><br>
+<img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data2.jpg?raw=true" width="500"><br>
+<img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/call to action.jpg?raw=true" width="500"><br>
+
