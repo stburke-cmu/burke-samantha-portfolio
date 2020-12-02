@@ -20,7 +20,7 @@
       *   "I know climate change is real and I want to do my part, but I need to educate myself."
 
 ## Research Process
-I started my process by creating a wireframe in Balsamiq (see below). It was very preliminary, but it helped me get the layout sorted out. I showed this to the people I interviewed. They said it was a good start, but I could improve the way it flows. They helped me brainstorm some ideas. The feedback helped me create a stronger introduction and rethink some of my graphics. Next, I started putting my work into Shorthand. Based on the feedback I got after showing this version, I decided to further revise my story line. It helped me build a stronger introduction, eliminate some of the fluff, and focus on the important information.
+I started my process by creating a wireframe in Balsamiq (see below). It was very preliminary, but it helped me get the layout sorted out. I showed this to the people I interviewed. They said it was a good start, but I could improve the way it flows. They helped me brainstorm some ideas. The feedback helped me create a stronger introduction and rethink some of my graphics. Next, I started putting my work into Shorthand. I included some screenshots below.  Based on the feedback I got after showing this version, I decided to further revise my story line. The introduction was still kind of clunky. It helped me build a stronger introduction, eliminate some of the fluff, and focus on the important information.
 
 ## Draft Revisions
    1. Intro:  We know climate change exists but what do we do about it?
@@ -47,11 +47,15 @@ I started my process by creating a wireframe in Balsamiq (see below). It was ver
       * It looks clunky
  
 ## Wireframes/story board
+# Balsamiq
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/Wireframe sample.png?raw=true" width="500"><br>
+# Intro screenshot 
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/intro.JPG?raw=true"><br>
+# Data/analysis screenshots 
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data.JPG?raw=true"><br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data1.JPGg?raw=true"><br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data3.JPG?raw=true"><br>
+# Call to action screenshot
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/call to action.JPG?raw=true"><br>
 
 
