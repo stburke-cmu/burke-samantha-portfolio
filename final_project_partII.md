@@ -19,7 +19,7 @@
       *   "I know climate change is real and I want to do my part, but I need to educate myself."
 
 ## Research Process
-I started my process by creating a wireframe in Balsamiq (see below). It was very preliminary, but it helped me get the layout sorted out. I showed this to the people I interviewed. They said it was a good start, but I could improve the way it flows. At first I had the 'Nuclear Energy, it's not what you think" first, but after discussing it with them, I moved it to after the initial introduction. If the audience already has an opinion about Nuclear Energy, they may be less likely to look at the information with an open mind. The feedback helped me create a stronger introduction and rethink some of my graphics. Next, I started putting my work into Shorthand. I included some screenshots below.  Based on the feedback I got after showing this version, I decided to further revise my story line. The introduction was still kind of clunky. My revision outline is below. I did incorporate some of the revisions in my screenshots at the bottom of this page. Overall, the feedback I received from the interviews helped me build a stronger introduction, eliminate some of the "fluff" and focus on the important information.
+I started my process by creating a wireframe in Balsamiq (see below). It was very preliminary, but it helped me get the layout sorted out. I showed this to the people I interviewed. They said it was a good start, but I could improve the way it flows. At first I had the 'Nuclear Energy, it's not what you think" first, but after discussing it with them, I moved it to after the initial introduction. If the audience already has an opinion about Nuclear Energy, they may be less likely to look at the information with an open mind. The feedback helped me create a stronger introduction and rethink some of my graphics. Next, I started putting my work into Shorthand. I included some screenshots below. I walked each person through the Shorthand draft. Each person seemed to get hung up on the "put this into perspective" portion. I definitely need to redesign that portion for my final submission. Based on the feedback I got after showing this version, I also decided to further revise my story line. The introduction was still kind of awkward. My revision outline is below. I did incorporated some of the revisions in my screenshots at the bottom of this page. Overall, the feedback I received from the interviews helped me build a stronger introduction, eliminate some of the "fluff" and focus on the important information.
 
 ## Draft Revisions
    1. Intro:  We know climate change exists but what do we do about it?
@@ -52,9 +52,10 @@ I started my process by creating a wireframe in Balsamiq (see below). It was ver
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/Intro.JPG?raw=true"><br>
 # Data/Analysis 
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data.JPG?raw=true"><br>
-<img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data2.JPGr?aw=true"><br>
+<img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data2.JPG?raw=true"><br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data3.JPG?raw=true"><br>
 # Call To Action
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/call to action.JPG?raw=true"><br>
+The bottom text is a link. This will be a different color or text format in my final project. 
 
 
