@@ -54,7 +54,7 @@ I started my process by creating a wireframe in Balsamiq (see below). It was ver
 # Data/analysis screenshots 
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data.JPG?raw=true"><br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data1.JPGg?raw=true"><br>
-<img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data3.JPG?raw=true"><br>
+<img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data2.JPG?raw=true"><br>
 # Call to action screenshot
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/call to action.JPG?raw=true"><br>
 
