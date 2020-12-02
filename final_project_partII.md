@@ -46,31 +46,34 @@ I started my process by creating a wireframe in Balsamiq (see below). It was ver
   1. Change the "to put it into perspective" graphic. 
       * It looks clunky
  
-## Wireframes/story board
+# Wireframes/story board
 
-# Balsamiq - Draft 1
+## Balsamiq - Draft 1
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/Wireframe sample.png?raw=true" width="500"><br>
 <br>
 
-# Shorthand Draft
+## Shorthand Draft
 <script src="https://embed.shorthand.com/embed_9.js"></script>
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/rethinkenergy/"><h1>We know climate change is real</h1><p>But what do we do about it?</p></div>
 <br>
 <br>
-<br>
-## In case the Shorthand draft above does not render I included some screenshots
+
+# Additional Screenshots
+Just incase the Shorthand draft doesn't render <br>
 *Note some of the screenshots may make my project draft appear incomplete. This is due the animations that are only visible in Shorthand.<br>
 
-# Intro Screenshot Examples 
+## Intro Screenshot Examples 
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/intro_slide.JPG?raw=true"><br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/Intro.JPG?raw=true"><br>
 
-# Data/Analysis Screenshot Examples 
+## Data/Analysis Screenshot Examples 
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data.JPG?raw=true"><br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data2.JPG?raw=true"><br>
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/data3.JPG?raw=true"><br>
-# Call To Action Screenshot Example
+
+## Call To Action Screenshot Example
 <img src="https://github.com/stburke-cmu/burke-samantha-portfolio/blob/main/images/call to action.JPG?raw=true"><br>
+<br>
 The bottom text is a link. This will be a different color or text format in my final project. 
 
 
