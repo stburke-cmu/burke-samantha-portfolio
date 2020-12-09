@@ -6,16 +6,16 @@
 * [Part III](https://carnegiemellon.shorthandstories.com/rethinkenergy/index.html)
 
 # Story Line
- <Br>Introduction<br>
-  l. Climate change exists, it really can't be disputed at this point. But what can we do about it?
- l. Our energy use is rapidly increasing and we need something that can keep up.
- l. The answer is nuclear energy
- <Br>Data & Analysis<br>
- l. Some background info
-  - It generates over half of the clean energy in the US, it's operating across 26 states, but we still heavily rely on fossil fuels.
- l. Facts about nuclear energy. It's one of the cleanest and safest sources we have, but the difference is that it can generate A LOT of power.
- l. Comparing nuclear, solar, and wind power. Nuclear has the greatest capacity.
- l. Call to action: help change the public opinion about nuclear energy and join the advocacy group.
+## Introduction
+1. Climate change exists, it really can't be disputed at this point. But what can we do about it?
+1. Our energy use is rapidly increasing and we need something that can keep up.
+1. The answer is nuclear energy
+## Data & Analysis
+1. Some background info (It generates over half of the clean energy in the US, it's operating across 26 states, but we still heavily rely on fossil fuels.)
+1. Facts about nuclear energy. It's one of the cleanest and safest sources we have, but the difference is that it can generate A LOT of power.
+1. Compare nuclear, solar, and wind power. Nuclear has the greatest capacity.
+## Call to action
+1. Help change the public opinion about nuclear energy and join the advocacy group.
    
 # Audience
 My audience is really any adult. Our energy energy consumption and the environment effects everyone. We live on this planet, we're all responsible for it.
