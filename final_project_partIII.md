@@ -5,6 +5,22 @@
 * [Part II](https://stburke-cmu.github.io/burke-samantha-portfolio/final_project_partII)
 * [Part III](https://carnegiemellon.shorthandstories.com/rethinkenergy/index.html)
 
+# Story Line
+ <Br>Introduction<br>
+  l. Climate change exists, it really can't be disputed at this point. But what can we do about it?
+ l. Our energy use is rapidly increasing and we need something that can keep up.
+ l. The answer is nuclear energy
+ <Br>Data & Analysis<br>
+ l. Some background info
+  - It generates over half of the clean energy in the US, it's operating across 26 states, but we still heavily rely on fossil fuels.
+ l. Facts about nuclear energy. It's one of the cleanest and safest sources we have, but the difference is that it can generate A LOT of power.
+ l. Comparing nuclear, solar, and wind power. Nuclear has the greatest capacity.
+ l. Call to action: help change the public opinion about nuclear energy and join the advocacy group.
+   
+# Audience
+My audience is really any adult. Our energy energy consumption and the environment effects everyone. We live on this planet, we're all responsible for it.
+More specifically, I think my audience is geared towards those who currently don't know much about Nuclear Energy or who have formed a negative opinion about it. I want to showcase that while wind and solar power are great, they aren't enough. The only resource available today that has the capability to keep up with growing energy use without relying on Fossil Fuels is nuclear energy.
+
 # Changes
 Since part two, I ended up making a couple of changes relating to the layout, order of visualizations, and images. 
 Many people have already formed an opinion about nuclear energy, so I did my best to create an enticing introduction and present data that people would find surprising.
