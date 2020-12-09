@@ -13,8 +13,7 @@ I hope to learn new strategies for visualizing data that I can utilize in my cur
 <br>
 
 # Portfolio
-Assignments
-## Sections
+
 * [Assignment 2](https://stburke-cmu.github.io/burke-samantha-portfolio/assignment2)
 * [Assignment 3 & 4](https://stburke-cmu.github.io/burke-samantha-portfolio/assignment34)
 * [Final Part I](https://stburke-cmu.github.io/burke-samantha-portfolio/final_project_partII)
