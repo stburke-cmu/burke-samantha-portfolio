@@ -6,22 +6,22 @@
 * [Part III](https://carnegiemellon.shorthandstories.com/rethinkenergy/index.html)
 
 # Story Line
-## Introduction
+### Introduction
 1. Climate change exists, it really can't be disputed at this point. But what can we do about it?
 1. Our energy use is rapidly increasing and we need something that can keep up.
 1. The answer is nuclear energy
-## Data & Analysis
+### Data & Analysis
 1. Some background info (It generates over half of the clean energy in the US, it's operating across 26 states, but we still heavily rely on fossil fuels.)
 1. Facts about nuclear energy. It's one of the cleanest and safest sources we have, but the difference is that it can generate A LOT of power.
 1. Compare nuclear, solar, and wind power. Nuclear has the greatest capacity.
-## Call to action
+### Call to action
 1. Help change the public opinion about nuclear energy and join the advocacy group.
    
-# Audience
+## Audience
 My audience is really any adult. Our energy energy consumption and the environment effects everyone. We live on this planet, we're all responsible for it.
 More specifically, I think my audience is geared towards those who currently don't know much about Nuclear Energy or who have formed a negative opinion about it. I want to showcase that while wind and solar power are great, they aren't enough. The only resource available today that has the capability to keep up with growing energy use without relying on Fossil Fuels is nuclear energy.
 
-# Changes
+## Changes
 Since part two, I ended up making a couple of changes relating to the layout, order of visualizations, and images. 
 Many people have already formed an opinion about nuclear energy, so I did my best to create an enticing introduction and present data that people would find surprising.
 During one of our review sessions, someone mentioned that they needed more convincing. Because of this, I added some additional charts, such as the map of the United States. Many people don't realize we already have nuclear power plants in 26 states. Once they know there's already plants across 26 states, they're more likely to realize it must not be as bad as we think. Also, I ended up putting some things back into the story that I originally took out. I wasn't quite sure how to include some of my data about the public opinion originally, but I realized it's important to include because it helps people understand why nuclear power needs advocates. 
@@ -32,7 +32,7 @@ Overall, my project changed significantly from part I to the final version. The 
 <script src="https://embed.shorthand.com/embed_9.js"></script>
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/rethinkenergy/"></div>
 
-# Sources
+## Sources
 My data sources are linked on part I.<br>
 (n.d.). Retrieved December 09, 2020, from https://ropercenter.cornell.edu/ipoll/search?collection=LSM%2Cnuclear+energy
 3 Reasons Why Nuclear is Clean and Sustainable. (n.d.). Retrieved December 09, 2020, from https://www.energy.gov/ne/articles/3-reasons-why-nuclear-clean-and-sustainable
