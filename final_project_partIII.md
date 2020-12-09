@@ -6,6 +6,7 @@
 * [Part III](https://carnegiemellon.shorthandstories.com/rethinkenergy/index.html)
 
 # Story Line
+
 ### Introduction
 * Climate change exists, it really can't be disputed at this point. But what can we do about it?
 * Our energy use is rapidly increasing and we need something that can keep up.
